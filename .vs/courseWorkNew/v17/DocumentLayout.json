@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivan\\source\\repos\\courseWorkNew\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DC372F-AC0A-41A4-95FA-BA94D5E79118}|courseWorkNew.csproj|c:\\users\\ivan\\source\\repos\\courseworknew\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DC372F-AC0A-41A4-95FA-BA94D5E79118}|courseWorkNew.csproj|solutionrelative:services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DC372F-AC0A-41A4-95FA-BA94D5E79118}|courseWorkNew.csproj|c:\\users\\ivan\\source\\repos\\courseworknew\\core\\framingmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DC372F-AC0A-41A4-95FA-BA94D5E79118}|courseWorkNew.csproj|solutionrelative:core\\framingmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DC372F-AC0A-41A4-95FA-BA94D5E79118}|courseWorkNew.csproj|c:\\users\\ivan\\source\\repos\\courseworknew\\core\\lupdecomposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DC372F-AC0A-41A4-95FA-BA94D5E79118}|courseWorkNew.csproj|solutionrelative:core\\lupdecomposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DC372F-AC0A-41A4-95FA-BA94D5E79118}|courseWorkNew.csproj|c:\\users\\ivan\\source\\repos\\courseworknew\\core\\matrixutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DC372F-AC0A-41A4-95FA-BA94D5E79118}|courseWorkNew.csproj|solutionrelative:core\\matrixutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DC372F-AC0A-41A4-95FA-BA94D5E79118}|courseWorkNew.csproj|c:\\users\\ivan\\source\\repos\\courseworknew\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DC372F-AC0A-41A4-95FA-BA94D5E79118}|courseWorkNew.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DC372F-AC0A-41A4-95FA-BA94D5E79118}|courseWorkNew.csproj|c:\\users\\ivan\\source\\repos\\courseworknew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DC372F-AC0A-41A4-95FA-BA94D5E79118}|courseWorkNew.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DC372F-AC0A-41A4-95FA-BA94D5E79118}|courseWorkNew.csproj|c:\\users\\ivan\\source\\repos\\courseworknew\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DC372F-AC0A-41A4-95FA-BA94D5E79118}|courseWorkNew.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\courseWorkNew\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\courseWorkNew\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T22:18:07.815Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\courseWorkNew\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\courseWorkNew\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T22:28:51.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\courseWorkNew\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\courseWorkNew\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T22:44:39.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MatrixUtils.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\courseWorkNew\\Core\\MatrixUtils.cs",
+              "RelativeDocumentMoniker": "Core\\MatrixUtils.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\courseWorkNew\\Core\\MatrixUtils.cs",
+              "RelativeToolTip": "Core\\MatrixUtils.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAYwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T22:23:11.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LUPDecomposition.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\courseWorkNew\\Core\\LUPDecomposition.cs",
+              "RelativeDocumentMoniker": "Core\\LUPDecomposition.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\courseWorkNew\\Core\\LUPDecomposition.cs",
+              "RelativeToolTip": "Core\\LUPDecomposition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:10:59.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FramingMethod.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\courseWorkNew\\Core\\FramingMethod.cs",
+              "RelativeDocumentMoniker": "Core\\FramingMethod.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\courseWorkNew\\Core\\FramingMethod.cs",
+              "RelativeToolTip": "Core\\FramingMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T22:22:31.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\courseWorkNew\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "Services\\FileService.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\courseWorkNew\\Services\\FileService.cs",
+              "RelativeToolTip": "Services\\FileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T22:23:49.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

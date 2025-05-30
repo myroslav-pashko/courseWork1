@@ -1,0 +1,16 @@
+C:\Users\Ivan\source\repos\courseWorkNew\obj\Debug\net8.0-windows\courseWorkNew.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\courseWorkNew\obj\Debug\net8.0-windows\courseWorkNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\courseWorkNew\obj\Debug\net8.0-windows\courseWorkNew.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\courseWorkNew\obj\Debug\net8.0-windows\courseWorkNew.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\courseWorkNew\obj\Debug\net8.0-windows\courseWorkNew.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\courseWorkNew\obj\Debug\net8.0-windows\courseWorkNew.MainForm.resources
+C:\Users\Ivan\source\repos\courseWorkNew\bin\Debug\net8.0-windows\courseWorkNew.exe
+C:\Users\Ivan\source\repos\courseWorkNew\bin\Debug\net8.0-windows\courseWorkNew.deps.json
+C:\Users\Ivan\source\repos\courseWorkNew\bin\Debug\net8.0-windows\courseWorkNew.runtimeconfig.json
+C:\Users\Ivan\source\repos\courseWorkNew\bin\Debug\net8.0-windows\courseWorkNew.dll
+C:\Users\Ivan\source\repos\courseWorkNew\bin\Debug\net8.0-windows\courseWorkNew.pdb
+C:\Users\Ivan\source\repos\courseWorkNew\obj\Debug\net8.0-windows\courseWorkNew.dll
+C:\Users\Ivan\source\repos\courseWorkNew\obj\Debug\net8.0-windows\refint\courseWorkNew.dll
+C:\Users\Ivan\source\repos\courseWorkNew\obj\Debug\net8.0-windows\courseWorkNew.pdb
+C:\Users\Ivan\source\repos\courseWorkNew\obj\Debug\net8.0-windows\courseWorkNew.genruntimeconfig.cache
+C:\Users\Ivan\source\repos\courseWorkNew\obj\Debug\net8.0-windows\ref\courseWorkNew.dll
